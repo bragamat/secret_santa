@@ -42,7 +42,7 @@ gem 'sidekiq'
 
 group :test do
   gem "factory_bot_rails"
-  gem "ffaker"
+  gem "faker"
 end
 
 group :development, :test do
